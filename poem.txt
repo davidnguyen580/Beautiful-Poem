@@ -2,5 +2,6 @@ The Rainbow
 
 Purple
 Yellow
+Green
 
-Two colors of the Rainbow
+Three colors of the Rainbow
