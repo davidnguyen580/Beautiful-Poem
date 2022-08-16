@@ -3,5 +3,6 @@ The Rainbow
 Purple
 Yellow
 Green
+Brown
 
-Three colors of the Rainbow
+Four colors of the Rainbow
