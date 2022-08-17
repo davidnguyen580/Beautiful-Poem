@@ -4,5 +4,7 @@ Purple
 Yellow
 Green
 Brown
+Indigo
+
 
 Four colors of the Rainbow and the Unicorn
